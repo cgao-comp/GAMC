@@ -16,12 +16,12 @@ GAMC is an unsupervised fake news detection technique using the graph autoencode
 
 <h2> Datasets </h2>
 
-Datasets can be find at https://drive.google.com/drive/folders/1OslTX91kLEYIi2WBnwuFtXsVz5SS_XeR?usp=sharing.
+Due to file size upload limitations, datasets can be found at https://drive.google.com/drive/folders/1OslTX91kLEYIi2WBnwuFtXsVz5SS_XeR?usp=sharing.
 
 
 <h2>Start </h2>
 
-For start, you could run the script: 
+For the program start, you could run the script: 
 
 ```bash
 python main_graph.py --dataset DATASETNAME --use_cfg
